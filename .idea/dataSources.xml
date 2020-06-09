@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="events" uuid="9571ae54-be94-4d0b-8e2d-68299ec8ed63">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\SOUMYA(SAM)\Desktop\iNeauron\iNeauron codes\ML\Chatbot\Rasa\rasa_weatherbot_new\events.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
